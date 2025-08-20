@@ -1,0 +1,1 @@
+Ide töltsd fel a webshopodhoz tartozó képeket, logókat, stb.
